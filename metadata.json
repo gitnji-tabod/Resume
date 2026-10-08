@@ -1,0 +1,6 @@
+{
+  "name": "FolioCraft - Laravel 11 & React Resume Builder",
+  "description": "A localized, lightweight, and modern resume builder with split-screen reactive preview, multi-template switching, ATS-friendly PDF export, and complete Laravel 11 SQLite backend scaffolding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
